@@ -1,0 +1,25 @@
+Representação de cores: hexadecimal, rbg, hsl e nome
+
+Cores primárias: amarelo, vermelho e azul
+Cores secundárias: laranja, vermelho e verde
+Cores terciárias: amarelo-alaranjado, vermelho-alaranjado, vermelho-arroxeado, azul-arroxeado, azul-esverdeado, amarelo-esverdeado
+
+Uma paleta tem de 3 a 5 cores no máximo, desconsiderando branco e preto que sempre vão estar no site
+
+Normalmente, os navegadores deixam como padrão o tamanho da fonte como 16px
+
+shorthand font 
+    - font-style -> font-weight -> font-size -> font-family
+    
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: normal;
+    font-size: 3em;
+    font-style: normal;
+
+Tipos de caixa
+
+Box-level: Quebra a próxima linha, ocupa a largura inteira do navegador, depois de terminar o box, ele pula pra linha de baixo
+Exemplos de tags Box-level: <div> ; <h1> - <h6> ; <p> ; <main> ; <header>...
+
+Inline-level: Não quebra a linha, não ocupa largura inteira do navegador, ele só ocupa a largura que for necessária para aparecer o conteúdo e depois da continuidade no conteúdo na mesma linha
+Exemplos de tags Inline-level: <span> ; <a> ; <code> ; <small> ; <strong>...

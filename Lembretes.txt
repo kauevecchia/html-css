@@ -1,0 +1,2 @@
+Como "Envelopar" um texto : Selecionar o texto e apertar CTRL + SHIFT + P / Clicar em wrap with abbreviation e selecionar a tag que você deseja
+Como procurar um link interno, ao invés de ter que escrever ele: CTRL + Espaço

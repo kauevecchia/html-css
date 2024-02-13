@@ -21,6 +21,21 @@ header {
     color: white;
     height: 250px;
 }
+nav {
+    background-color: #185433;
+}
+nav > a:hover {
+    background-color: #3DDB84;
+    color: #185433;
+    border-radius: 6px;
+    padding: 10px;
+}
+nav > a {
+    transition-duration: 0.5s;
+}
+nav {
+    
+}
 #h1 {
     margin: 0px;
     text-align: center;
